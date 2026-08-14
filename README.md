@@ -8,8 +8,6 @@ An extension for Zotero that shows how many annotations your items have.
 
 ## Installation
 
-> **Note:** This extension only works with Zotero 7
-
 1. Download the latest release [here](https://github.com/Dominic-DallOsto/zotero-annotations-count/releases/latest)
 2. Save the .xpi file (in Firefox, Right click -> Save Link As)
 3. Install in Zotero (Tools -> Plugins -> Gear icon in the top right -> Install Plugin From File -> Select the .xpi file you downloaded)
